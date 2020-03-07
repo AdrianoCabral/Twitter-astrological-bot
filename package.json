@@ -1,0 +1,31 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "twitter bot for posting knights photos",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoCabral/Twitter-astrological-bot.git"
+  },
+  "keywords": [
+    "saint",
+    "seiya",
+    "cavaleiros",
+    "zodiaco",
+    "zodiac",
+    "knights"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoCabral/Twitter-astrological-bot/issues"
+  },
+  "homepage": "https://github.com/AdrianoCabral/Twitter-astrological-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
